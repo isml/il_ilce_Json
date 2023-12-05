@@ -35,7 +35,7 @@
 				  "active": true,
 				  "options": {
 					"url": "http://identity-provider.product-smartfarmiam-int.plateaux.azure.softtech/auth/",
-					"unSecuredPages": ["rootqjson","testqjson"]
+					"unSecuredPages": ["rootqjson","testqjson"],
 					"realm": "kayseriseker",
 					"clientId": "ui-smartfarmui-client",
 					"onLoad": "check-sso",
